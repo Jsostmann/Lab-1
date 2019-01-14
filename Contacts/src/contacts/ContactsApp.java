@@ -29,7 +29,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author CCannon
+ * @author Jsostmann@aggies.ncat.edu
  */
 public class ContactsApp extends Application {
     private static ArrayList<Contact> contacts;
